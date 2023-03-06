@@ -1,0 +1,10 @@
+.product-container{
+  display:flex;
+  justify-content: center;
+  border-radius: 5px;
+  padding:12px;
+}
+.item-container{
+  margin:18px;
+  
+}

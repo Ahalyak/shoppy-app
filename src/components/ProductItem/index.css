@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+    .product-item {
+      width: 200px;
+      display:flex;
+      flex-wrap:wrap;
+      margin-right: 64px;
+      border-radius:12px;
+      padding:12px;
+      width: 200px;
+      margin-right: 64px;
+    }
+  }
+  .product-image {
+    width: 200px;
+  border-radius: 8px;
+      }
+  
